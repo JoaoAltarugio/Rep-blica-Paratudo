@@ -1,0 +1,3 @@
+{
+    "rewrites": [{ "source": "/(Republica.html)", "destination": "/" }]
+}
